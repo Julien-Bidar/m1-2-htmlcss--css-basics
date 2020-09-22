@@ -2,14 +2,10 @@ img {
   max-width: 300px;
 }
 
-.img1 {
+.img3 {
+  display: none;
 }
 
 .img2 {
-}
-
-.img3 {
-}
-
-.img4 {
+  visibility: hidden;
 }
