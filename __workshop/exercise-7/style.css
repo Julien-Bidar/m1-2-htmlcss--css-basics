@@ -17,3 +17,55 @@ li {
 }
 
 /* ADD CSS BELOW */
+
+h1,
+h2,
+.ani-name {
+  font-family: "Yanone Kaffeesatz", sans-serif;
+  font-family: "Bangers", cursive;
+  margin: 15px;
+}
+
+.ani-name {
+  font-size: 1.5em;
+}
+
+.animals {
+  font-size: 1.5em;
+  margin: 10px;
+}
+
+.ani-container {
+  margin: 25px;
+}
+
+h1 {
+  text-align: center;
+  font-size: 3em;
+}
+
+.image {
+  padding: 10x;
+  border-radius: 3px;
+  max-width: auto;
+  max-height: 30vh;
+}
+
+.cute, 
+.big {
+  display: flex;
+  justify-content: flex-start;
+}
+
+.cats, 
+.dogs, 
+.alpaca, 
+.elephant, 
+.giraffe, 
+.whale {
+  text-align: center;
+  padding: 25px;
+  border: 2px dashed rgb(180, 175, 175);
+  margin: 10px;
+}
+
